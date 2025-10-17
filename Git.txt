@@ -1,2 +1,2 @@
 Inicio da Aula de Git
-Continuação da aula de Git
+Continuação da aula de Git.
